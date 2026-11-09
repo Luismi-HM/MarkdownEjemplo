@@ -1,7 +1,5 @@
 # Mi Cronograma de Proyecto
 
-A continuación se muestra la planificación del proyecto usando un diagrama de Gantt.
-
 ```mermaid
 gantt
     title Plan de Trabajo
