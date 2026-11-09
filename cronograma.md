@@ -1,5 +1,5 @@
 # Mi Cronograma de Proyecto
-
+Diagrama ejemplo
 ```mermaid
 gantt
     title Plan de Trabajo
